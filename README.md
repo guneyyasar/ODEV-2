@@ -44,7 +44,7 @@
 </ul><hr></ol>
 <img src="https://www.cumhuriyet.com.tr/Archive/2022/5/3/1932145/kapak_110233.jpg"width="300" height=" 300"/>
 <img src="https://storytel.com/images/e/640x640/0000707058.jpg"width="300" height="300" aligh="center"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FVito_Corleone&psig=AOvVaw03gUE4JJ4n2GoIv-LsKqJy&ust=1653313177898000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNDRiPad8_cCFQAAAAAdAAAAABAD"width="300" height="300" aligh="center"/>
+<img src="https://www.cumhuriyet.com.tr/Archive/2022/5/3/1932145/kapak_110233.jpg"width="300" height="300" aligh="center"/>
 <img src="https://i.kanald.com.tr/i/kanald/70/1200x630/55aca1d7f0dc1e0f2c9c11bc.jpg"width="300"height="300"/>
 <!--  Resim Bitiş-->
 <body bgcolor="black" style="color:red"></body>
