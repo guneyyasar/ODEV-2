@@ -36,7 +36,7 @@
 <!--Kitap Başlangıç  -->
     <li><em> KİTAP</em></li>
 <ul>
-    <li><a href="  https://books.google.com.tr/books?id=6vVnDQAAQBAJ&dq=harry+potter&hl=tr&sa=X&ved=2ahUKEwj-otWS6_L3AhVNSPEDHUljAWMQ6AF6BAgKEAI "target="_blank">Harry Potter</a></li>
+    <li><a href="https://books.google.com.tr/books?id=6vVnDQAAQBAJ&dq=harry+potter&hl=tr&sa=X&ved=2ahUKEwj-otWS6_L3AhVNSPEDHUljAWMQ6AF6BAgKEAI "target="_blank">Harry Potter</a></li>
     <li><a href="https://books.google.com.tr/books?id=tzDJBAAAQBAJ&printsec=frontcover&dq=functional+training&hl=tr&sa=X&redir_esc=y#v=onepage&q=functional%20training&f=false"target="_blank">The Functional Training Bible  </a></li>
     <li><a href="https://books.google.com.tr/books?id=RdiCDwAAQBAJ&pg=PT56&dq=nike+head+coach&hl=tr&sa=X&ved=2ahUKEwjizoaM7fL3AhUxRvEDHUV8AvsQ6AF6BAgLEAI#v=onepage&q=nike%20head%20coach&f=false "target="_blank">Beyond the Backboard </a></li>
     <!--Kitap Bitiş  -->
